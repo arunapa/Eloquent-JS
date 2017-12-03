@@ -1,0 +1,10 @@
+console.log(Math.max(10,32352.142));
+console.log(Math.min(2,-142));
+console.log(Math.sqrt(342));
+console.log(Math.random());
+console.log(Math.sin(1));
+console.log(Math.cos(1));
+console.log(Math.tan(1));
+console.log(Math.PI);
+console.log(Math.floor(Math.random() * 10));
+console.log(sum(range(1,10)));
